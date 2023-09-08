@@ -1,0 +1,15 @@
+/home/gostart/RiderProjects/Acerte/Acerte/bin/Debug/net6.0/Acerte
+/home/gostart/RiderProjects/Acerte/Acerte/bin/Debug/net6.0/Acerte.deps.json
+/home/gostart/RiderProjects/Acerte/Acerte/bin/Debug/net6.0/Acerte.runtimeconfig.json
+/home/gostart/RiderProjects/Acerte/Acerte/bin/Debug/net6.0/Acerte.dll
+/home/gostart/RiderProjects/Acerte/Acerte/bin/Debug/net6.0/Acerte.pdb
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.csproj.AssemblyReference.cache
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.GeneratedMSBuildEditorConfig.editorconfig
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.AssemblyInfoInputs.cache
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.AssemblyInfo.cs
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.csproj.CoreCompileInputs.cache
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.dll
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/refint/Acerte.dll
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.pdb
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/Acerte.genruntimeconfig.cache
+/home/gostart/RiderProjects/Acerte/Acerte/obj/Debug/net6.0/ref/Acerte.dll
